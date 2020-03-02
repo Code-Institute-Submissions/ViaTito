@@ -20,6 +20,8 @@ and a page hoe-doen-we-dat a indept explanation on the work progress with a phot
 
 # Links used
 https://getbootstrap.com/
+
 https://fonts.google.com/
+
 https://fontawesome.com/
 
