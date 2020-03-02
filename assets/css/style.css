@@ -113,8 +113,12 @@ h5 {
 }
 
 
-/*-------------Hover.css--*/
+/*-------------jumbotron--*/
 
+
+.jumbotron {
+    margin: 14px;
+}
 /*----------Footer-------*/
 
 footer {
